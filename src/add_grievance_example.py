@@ -2,7 +2,7 @@
 import json
 from pathlib import Path
 
-train_path = Path("train.jsonl")
+train_path = Path("data/splits/train.jsonl")
 example_path = Path("grievance_training_example.json")
 
 # Load the new example

@@ -1,0 +1,23 @@
+
+{
+  "task": "College Complaint Management System",
+  "evaluation_type": "preliminary_manual_review",
+  "scale": "1 = poor, 5 = excellent",
+  "base": {
+    "requirement_coverage": 5,
+    "factual_consistency": 3,
+    "clarity": 4,
+    "completeness": 4
+  },
+  "student": {
+    "requirement_coverage": 5,
+    "factual_consistency": 3,
+    "clarity": 4,
+    "completeness": 4
+  },
+  "notes": [
+    "Both responses cover the five requested features.",
+    "Both responses include some details not specified in the prompt.",
+    "One task is insufficient to establish general superiority."
+  ]
+}

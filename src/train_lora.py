@@ -12,7 +12,7 @@ from peft import LoraConfig, get_peft_model
 MODEL_NAME = "Qwen/Qwen2.5-0.5B-Instruct"
 MAX_LENGTH = 512
 OUTPUT_DIR = "student_lora_checkpoints"
-ADAPTER_DIR = "student_lora_adapter"
+ADAPTER_DIR = "models/student_lora_adapter"
 
 if not torch.cuda.is_available():
     raise RuntimeError("CUDA GPU is not available.")
@@ -102,8 +102,8 @@ def load_examples(filename):
     return rows
 
 
-train_rows = load_examples("train_formatted.jsonl")
-val_rows = load_examples("validation_formatted.jsonl")
+train_rows = load_examples("data/splits/train_formatted.jsonl")
+val_rows = load_examples("data/splits/validation_formatted.jsonl")
 
 if not train_rows:
     raise RuntimeError("No usable training examples found.")
