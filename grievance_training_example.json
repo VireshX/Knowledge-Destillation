@@ -1,0 +1,4 @@
+{
+  "instruction": "Create a college complaint management system that helps students report campus problems and monitor how the administration handles them.",
+  "response": "The College Complaint Management System should provide five core features. First, complaint categories such as academic issues, administration, facilities, and technical problems. Second, a complaint submission form where students can describe their issue and attach supporting documents. Third, a unique tracking ID for every submitted complaint so students can identify and follow their cases. Fourth, status updates such as Submitted, Under Review, In Progress, and Resolved, with notifications when the status changes. Fifth, a resolution history showing the actions taken, responses from the responsible department, resolution date, and final outcome. The dashboard should allow students to view their open and resolved complaints."
+}

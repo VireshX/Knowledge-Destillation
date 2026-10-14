@@ -1,0 +1,17 @@
+[
+  {
+    "task": "College Library Management",
+    "prompt": "Design a college library management interface. Include book search, availability status, issue and return dates, and overdue-book alerts.",
+    "response": "The design of the college library management interface should be user-friendly and intuitive. The main components of the interface include:\n\n1. Home page: This page displays a list of all books in the library, with filters for author, title, and subject.\n\n2. Book search: Users can enter keywords or phrases to find specific books. The search results will display the titles, authors, and publication dates of the matching books.\n\n3. Availability status: This page shows the current availability of each book. Users can see if the book is currently available, checked out, or returned.\n\n4. Issue and return dates: Users can view the due date and return date for each book. If the book is overdue, it will show an alert message.\n\n5. Overdue book alerts: Users can set up alerts for books that are overdue. When the due date approaches, the system will send an email notification to"
+  },
+  {
+    "task": "Student Fee Payment Portal",
+    "prompt": "Design a student fee payment portal. Include fee details, payment status, pending dues, receipts, and payment history.",
+    "response": "Welcome to the Student Fee Payment Portal! Here's how it works:\n\n1. Sign up: Click on \"Sign Up\" to create an account for your student. Fill in your name, email address, password, and any other required information.\n\n2. Login: Once you've signed up, log in using your username and password.\n\n3. Dashboard: On the dashboard, you'll see a list of all your payments. Each payment has a title, amount, due date, and status (pending or completed).\n\n4. Payment Status: The status of each payment is displayed below the title. It can be either \"Pending\" or \"Completed\". If a payment is marked as \"Completed\", you will receive a receipt with the details of the transaction.\n\n5. Receipts: If a payment is marked as \"Completed\", you will receive a PDF receipt with the details of the transaction. You can"
+  },
+  {
+    "task": "Examination Timetable",
+    "prompt": "Design a college examination timetable interface. Include exam dates, times, rooms, filters, and personal schedules.",
+    "response": "The design of the college examination timetable interface should be user-friendly and intuitive. The interface should have a clean and modern layout with easy navigation. The main components of the interface include:\n\n1. Header: A header with the title \"College Examination Timetable\" and a search bar for filtering exams.\n\n2. Main Content: This section will contain the following sections:\n   - Date and Time Filters: A dropdown menu with options to filter exams based on date and time.\n   - Room Selection: A drop-down menu with options to select rooms for each exam.\n   - Personal Schedule: A section for displaying personal schedule information such as exam dates, times, and room assignments.\n\n3. Footer: A footer with links to the home page, logout, and settings.\n\nTo ensure accessibility, the interface should comply with WCAG 2.1 guidelines. It should use semantic HTML5 elements, provide alternative text"
+  }
+]

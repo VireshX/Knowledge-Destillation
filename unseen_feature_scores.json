@@ -1,0 +1,1651 @@
+{
+  "tasks_evaluated": 20,
+  "base_average": 7.75,
+  "student_average": 8.07,
+  "difference": 0.32,
+  "results": [
+    {
+      "task": "Hostel Management",
+      "base": {
+        "score_out_of_10": 6.0,
+        "matched_features": 3,
+        "total_features": 5,
+        "details": {
+          "feature_1": {
+            "matched": false,
+            "keywords": [
+              "room allocation",
+              "room assignment"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "vacancy",
+              "available room"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "check-in",
+              "check in"
+            ]
+          },
+          "feature_4": {
+            "matched": false,
+            "keywords": [
+              "check-out",
+              "check out"
+            ]
+          },
+          "feature_5": {
+            "matched": true,
+            "keywords": [
+              "maintenance request",
+              "maintenance"
+            ]
+          }
+        }
+      },
+      "student": {
+        "score_out_of_10": 6.0,
+        "matched_features": 3,
+        "total_features": 5,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "room allocation",
+              "room assignment"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "vacancy",
+              "available room"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "check-in",
+              "check in"
+            ]
+          },
+          "feature_4": {
+            "matched": false,
+            "keywords": [
+              "check-out",
+              "check out"
+            ]
+          },
+          "feature_5": {
+            "matched": false,
+            "keywords": [
+              "maintenance request",
+              "maintenance"
+            ]
+          }
+        }
+      },
+      "difference": 0.0
+    },
+    {
+      "task": "College Transport",
+      "base": {
+        "score_out_of_10": 10.0,
+        "matched_features": 5,
+        "total_features": 5,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "bus route",
+              "routes"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "stop",
+              "stops"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "schedule",
+              "timetable"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "student registration",
+              "register"
+            ]
+          },
+          "feature_5": {
+            "matched": true,
+            "keywords": [
+              "transport fee",
+              "fee status"
+            ]
+          }
+        }
+      },
+      "student": {
+        "score_out_of_10": 6.0,
+        "matched_features": 3,
+        "total_features": 5,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "bus route",
+              "routes"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "stop",
+              "stops"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "schedule",
+              "timetable"
+            ]
+          },
+          "feature_4": {
+            "matched": false,
+            "keywords": [
+              "student registration",
+              "register"
+            ]
+          },
+          "feature_5": {
+            "matched": false,
+            "keywords": [
+              "transport fee",
+              "fee status"
+            ]
+          }
+        }
+      },
+      "difference": -4.0
+    },
+    {
+      "task": "Canteen Ordering",
+      "base": {
+        "score_out_of_10": 10.0,
+        "matched_features": 5,
+        "total_features": 5,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "menu",
+              "food items"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "availability",
+              "available"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "cart",
+              "shopping cart"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "order tracking",
+              "track order"
+            ]
+          },
+          "feature_5": {
+            "matched": true,
+            "keywords": [
+              "payment status",
+              "payment"
+            ]
+          }
+        }
+      },
+      "student": {
+        "score_out_of_10": 10.0,
+        "matched_features": 5,
+        "total_features": 5,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "menu",
+              "food items"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "availability",
+              "available"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "cart",
+              "shopping cart"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "order tracking",
+              "track order"
+            ]
+          },
+          "feature_5": {
+            "matched": true,
+            "keywords": [
+              "payment status",
+              "payment"
+            ]
+          }
+        }
+      },
+      "difference": 0.0
+    },
+    {
+      "task": "Student Attendance Analytics",
+      "base": {
+        "score_out_of_10": 10.0,
+        "matched_features": 4,
+        "total_features": 4,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "subject-wise",
+              "by subject",
+              "subject"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "monthly trend",
+              "monthly",
+              "month"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "shortage warning",
+              "shortage",
+              "low attendance"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "downloadable report",
+              "download report",
+              "export"
+            ]
+          }
+        }
+      },
+      "student": {
+        "score_out_of_10": 7.5,
+        "matched_features": 3,
+        "total_features": 4,
+        "details": {
+          "feature_1": {
+            "matched": false,
+            "keywords": [
+              "subject-wise",
+              "by subject",
+              "subject"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "monthly trend",
+              "monthly",
+              "month"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "shortage warning",
+              "shortage",
+              "low attendance"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "downloadable report",
+              "download report",
+              "export"
+            ]
+          }
+        }
+      },
+      "difference": -2.5
+    },
+    {
+      "task": "Faculty Management",
+      "base": {
+        "score_out_of_10": 7.5,
+        "matched_features": 3,
+        "total_features": 4,
+        "details": {
+          "feature_1": {
+            "matched": false,
+            "keywords": [
+              "faculty profile",
+              "faculty details"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "assigned subject",
+              "subjects"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "teaching schedule",
+              "schedule"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "leave request",
+              "leave"
+            ]
+          }
+        }
+      },
+      "student": {
+        "score_out_of_10": 10.0,
+        "matched_features": 4,
+        "total_features": 4,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "faculty profile",
+              "faculty details"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "assigned subject",
+              "subjects"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "teaching schedule",
+              "schedule"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "leave request",
+              "leave"
+            ]
+          }
+        }
+      },
+      "difference": 2.5
+    },
+    {
+      "task": "Placement Portal",
+      "base": {
+        "score_out_of_10": 7.5,
+        "matched_features": 3,
+        "total_features": 4,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "company profile",
+              "company details"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "eligibility",
+              "eligible"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "application deadline",
+              "deadline"
+            ]
+          },
+          "feature_4": {
+            "matched": false,
+            "keywords": [
+              "interview schedule",
+              "interview"
+            ]
+          }
+        }
+      },
+      "student": {
+        "score_out_of_10": 7.5,
+        "matched_features": 3,
+        "total_features": 4,
+        "details": {
+          "feature_1": {
+            "matched": false,
+            "keywords": [
+              "company profile",
+              "company details"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "eligibility",
+              "eligible"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "application deadline",
+              "deadline"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "interview schedule",
+              "interview"
+            ]
+          }
+        }
+      },
+      "difference": 0.0
+    },
+    {
+      "task": "Assignment Submission",
+      "base": {
+        "score_out_of_10": 4.0,
+        "matched_features": 2,
+        "total_features": 5,
+        "details": {
+          "feature_1": {
+            "matched": false,
+            "keywords": [
+              "instructions",
+              "assignment details"
+            ]
+          },
+          "feature_2": {
+            "matched": false,
+            "keywords": [
+              "deadline",
+              "due date"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "file upload",
+              "upload"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "submission status",
+              "submitted"
+            ]
+          },
+          "feature_5": {
+            "matched": false,
+            "keywords": [
+              "feedback",
+              "comments"
+            ]
+          }
+        }
+      },
+      "student": {
+        "score_out_of_10": 8.0,
+        "matched_features": 4,
+        "total_features": 5,
+        "details": {
+          "feature_1": {
+            "matched": false,
+            "keywords": [
+              "instructions",
+              "assignment details"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "deadline",
+              "due date"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "file upload",
+              "upload"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "submission status",
+              "submitted"
+            ]
+          },
+          "feature_5": {
+            "matched": true,
+            "keywords": [
+              "feedback",
+              "comments"
+            ]
+          }
+        }
+      },
+      "difference": 4.0
+    },
+    {
+      "task": "Student Grievance",
+      "base": {
+        "score_out_of_10": 4.0,
+        "matched_features": 2,
+        "total_features": 5,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "complaint category",
+              "category"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "submit complaint",
+              "complaint form",
+              "complaint"
+            ]
+          },
+          "feature_3": {
+            "matched": false,
+            "keywords": [
+              "tracking id",
+              "tracking number"
+            ]
+          },
+          "feature_4": {
+            "matched": false,
+            "keywords": [
+              "status update",
+              "status"
+            ]
+          },
+          "feature_5": {
+            "matched": false,
+            "keywords": [
+              "resolution history",
+              "resolution"
+            ]
+          }
+        }
+      },
+      "student": {
+        "score_out_of_10": 2.0,
+        "matched_features": 1,
+        "total_features": 5,
+        "details": {
+          "feature_1": {
+            "matched": false,
+            "keywords": [
+              "complaint category",
+              "category"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "submit complaint",
+              "complaint form",
+              "complaint"
+            ]
+          },
+          "feature_3": {
+            "matched": false,
+            "keywords": [
+              "tracking id",
+              "tracking number"
+            ]
+          },
+          "feature_4": {
+            "matched": false,
+            "keywords": [
+              "status update",
+              "status"
+            ]
+          },
+          "feature_5": {
+            "matched": false,
+            "keywords": [
+              "resolution history",
+              "resolution"
+            ]
+          }
+        }
+      },
+      "difference": -2.0
+    },
+    {
+      "task": "Laboratory Booking",
+      "base": {
+        "score_out_of_10": 5.0,
+        "matched_features": 2,
+        "total_features": 4,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "time slot",
+              "available slot"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "equipment",
+              "equipment list"
+            ]
+          },
+          "feature_3": {
+            "matched": false,
+            "keywords": [
+              "booking approval",
+              "approval"
+            ]
+          },
+          "feature_4": {
+            "matched": false,
+            "keywords": [
+              "cancellation",
+              "cancel"
+            ]
+          }
+        }
+      },
+      "student": {
+        "score_out_of_10": 10.0,
+        "matched_features": 4,
+        "total_features": 4,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "time slot",
+              "available slot"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "equipment",
+              "equipment list"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "booking approval",
+              "approval"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "cancellation",
+              "cancel"
+            ]
+          }
+        }
+      },
+      "difference": 5.0
+    },
+    {
+      "task": "Event Registration",
+      "base": {
+        "score_out_of_10": 5.0,
+        "matched_features": 2,
+        "total_features": 4,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "event details",
+              "event description"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "seat availability",
+              "available seats"
+            ]
+          },
+          "feature_3": {
+            "matched": false,
+            "keywords": [
+              "registration deadline",
+              "deadline"
+            ]
+          },
+          "feature_4": {
+            "matched": false,
+            "keywords": [
+              "confirmation receipt",
+              "confirmation"
+            ]
+          }
+        }
+      },
+      "student": {
+        "score_out_of_10": 10.0,
+        "matched_features": 4,
+        "total_features": 4,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "event details",
+              "event description"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "seat availability",
+              "available seats"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "registration deadline",
+              "deadline"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "confirmation receipt",
+              "confirmation"
+            ]
+          }
+        }
+      },
+      "difference": 5.0
+    },
+    {
+      "task": "Scholarship Portal",
+      "base": {
+        "score_out_of_10": 10.0,
+        "matched_features": 5,
+        "total_features": 5,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "eligibility",
+              "eligible"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "document upload",
+              "upload documents"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "application status",
+              "status"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "deadline",
+              "due date"
+            ]
+          },
+          "feature_5": {
+            "matched": true,
+            "keywords": [
+              "award notification",
+              "notification"
+            ]
+          }
+        }
+      },
+      "student": {
+        "score_out_of_10": 10.0,
+        "matched_features": 5,
+        "total_features": 5,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "eligibility",
+              "eligible"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "document upload",
+              "upload documents"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "application status",
+              "status"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "deadline",
+              "due date"
+            ]
+          },
+          "feature_5": {
+            "matched": true,
+            "keywords": [
+              "award notification",
+              "notification"
+            ]
+          }
+        }
+      },
+      "difference": 0.0
+    },
+    {
+      "task": "Alumni Portal",
+      "base": {
+        "score_out_of_10": 10.0,
+        "matched_features": 5,
+        "total_features": 5,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "alumni profile",
+              "alumni details"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "graduation",
+              "graduated"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "networking event",
+              "networking"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "mentorship",
+              "mentor"
+            ]
+          },
+          "feature_5": {
+            "matched": true,
+            "keywords": [
+              "contact preference",
+              "contact"
+            ]
+          }
+        }
+      },
+      "student": {
+        "score_out_of_10": 6.0,
+        "matched_features": 3,
+        "total_features": 5,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "alumni profile",
+              "alumni details"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "graduation",
+              "graduated"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "networking event",
+              "networking"
+            ]
+          },
+          "feature_4": {
+            "matched": false,
+            "keywords": [
+              "mentorship",
+              "mentor"
+            ]
+          },
+          "feature_5": {
+            "matched": false,
+            "keywords": [
+              "contact preference",
+              "contact"
+            ]
+          }
+        }
+      },
+      "difference": -4.0
+    },
+    {
+      "task": "Course Registration",
+      "base": {
+        "score_out_of_10": 6.0,
+        "matched_features": 3,
+        "total_features": 5,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "prerequisite",
+              "prerequisites"
+            ]
+          },
+          "feature_2": {
+            "matched": false,
+            "keywords": [
+              "available seats",
+              "seat availability"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "timetable conflict",
+              "schedule conflict",
+              "conflict"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "enrollment status",
+              "enrollment"
+            ]
+          },
+          "feature_5": {
+            "matched": false,
+            "keywords": [
+              "add-drop",
+              "add/drop"
+            ]
+          }
+        }
+      },
+      "student": {
+        "score_out_of_10": 8.0,
+        "matched_features": 4,
+        "total_features": 5,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "prerequisite",
+              "prerequisites"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "available seats",
+              "seat availability"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "timetable conflict",
+              "schedule conflict",
+              "conflict"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "enrollment status",
+              "enrollment"
+            ]
+          },
+          "feature_5": {
+            "matched": false,
+            "keywords": [
+              "add-drop",
+              "add/drop"
+            ]
+          }
+        }
+      },
+      "difference": 2.0
+    },
+    {
+      "task": "Inventory Management",
+      "base": {
+        "score_out_of_10": 10.0,
+        "matched_features": 5,
+        "total_features": 5,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "item quantity",
+              "stock quantity",
+              "quantity"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "stock alert",
+              "low stock",
+              "stock"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "purchase request",
+              "purchase"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "supplier",
+              "vendor"
+            ]
+          },
+          "feature_5": {
+            "matched": true,
+            "keywords": [
+              "issue record",
+              "issue history"
+            ]
+          }
+        }
+      },
+      "student": {
+        "score_out_of_10": 10.0,
+        "matched_features": 5,
+        "total_features": 5,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "item quantity",
+              "stock quantity",
+              "quantity"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "stock alert",
+              "low stock",
+              "stock"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "purchase request",
+              "purchase"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "supplier",
+              "vendor"
+            ]
+          },
+          "feature_5": {
+            "matched": true,
+            "keywords": [
+              "issue record",
+              "issue history"
+            ]
+          }
+        }
+      },
+      "difference": 0.0
+    },
+    {
+      "task": "Campus Health Appointment",
+      "base": {
+        "score_out_of_10": 7.5,
+        "matched_features": 3,
+        "total_features": 4,
+        "details": {
+          "feature_1": {
+            "matched": false,
+            "keywords": [
+              "available slot",
+              "time slot"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "appointment booking",
+              "book appointment"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "cancellation",
+              "cancel"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "visit status",
+              "appointment status",
+              "status"
+            ]
+          }
+        }
+      },
+      "student": {
+        "score_out_of_10": 7.5,
+        "matched_features": 3,
+        "total_features": 4,
+        "details": {
+          "feature_1": {
+            "matched": false,
+            "keywords": [
+              "available slot",
+              "time slot"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "appointment booking",
+              "book appointment"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "cancellation",
+              "cancel"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "visit status",
+              "appointment status",
+              "status"
+            ]
+          }
+        }
+      },
+      "difference": 0.0
+    },
+    {
+      "task": "Internship Tracker",
+      "base": {
+        "score_out_of_10": 10.0,
+        "matched_features": 5,
+        "total_features": 5,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "company details",
+              "company"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "application stage",
+              "application status",
+              "stage"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "interview date",
+              "interview"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "offer status",
+              "offer"
+            ]
+          },
+          "feature_5": {
+            "matched": true,
+            "keywords": [
+              "mentor feedback",
+              "feedback"
+            ]
+          }
+        }
+      },
+      "student": {
+        "score_out_of_10": 8.0,
+        "matched_features": 4,
+        "total_features": 5,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "company details",
+              "company"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "application stage",
+              "application status",
+              "stage"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "interview date",
+              "interview"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "offer status",
+              "offer"
+            ]
+          },
+          "feature_5": {
+            "matched": false,
+            "keywords": [
+              "mentor feedback",
+              "feedback"
+            ]
+          }
+        }
+      },
+      "difference": -2.0
+    },
+    {
+      "task": "Classroom Scheduling",
+      "base": {
+        "score_out_of_10": 5.0,
+        "matched_features": 2,
+        "total_features": 4,
+        "details": {
+          "feature_1": {
+            "matched": false,
+            "keywords": [
+              "room capacity",
+              "capacity"
+            ]
+          },
+          "feature_2": {
+            "matched": false,
+            "keywords": [
+              "available time slot",
+              "time slot"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "course assignment",
+              "course"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "scheduling conflict",
+              "conflict"
+            ]
+          }
+        }
+      },
+      "student": {
+        "score_out_of_10": 7.5,
+        "matched_features": 3,
+        "total_features": 4,
+        "details": {
+          "feature_1": {
+            "matched": false,
+            "keywords": [
+              "room capacity",
+              "capacity"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "available time slot",
+              "time slot"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "course assignment",
+              "course"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "scheduling conflict",
+              "conflict"
+            ]
+          }
+        }
+      },
+      "difference": 2.5
+    },
+    {
+      "task": "Research Project Portal",
+      "base": {
+        "score_out_of_10": 10.0,
+        "matched_features": 4,
+        "total_features": 4,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "project proposal",
+              "proposal"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "supervisor assignment",
+              "supervisor"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "milestone deadline",
+              "milestone"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "progress report",
+              "progress"
+            ]
+          }
+        }
+      },
+      "student": {
+        "score_out_of_10": 10.0,
+        "matched_features": 4,
+        "total_features": 4,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "project proposal",
+              "proposal"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "supervisor assignment",
+              "supervisor"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "milestone deadline",
+              "milestone"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "progress report",
+              "progress"
+            ]
+          }
+        }
+      },
+      "difference": 0.0
+    },
+    {
+      "task": "Certificate Request",
+      "base": {
+        "score_out_of_10": 10.0,
+        "matched_features": 4,
+        "total_features": 4,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "certificate type",
+              "types of certificate"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "application form",
+              "form"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "processing status",
+              "status"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "collection date",
+              "collection"
+            ]
+          }
+        }
+      },
+      "student": {
+        "score_out_of_10": 10.0,
+        "matched_features": 4,
+        "total_features": 4,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "certificate type",
+              "types of certificate"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "application form",
+              "form"
+            ]
+          },
+          "feature_3": {
+            "matched": true,
+            "keywords": [
+              "processing status",
+              "status"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "collection date",
+              "collection"
+            ]
+          }
+        }
+      },
+      "difference": 0.0
+    },
+    {
+      "task": "College Noticeboard",
+      "base": {
+        "score_out_of_10": 7.5,
+        "matched_features": 3,
+        "total_features": 4,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "announcement",
+              "notice"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "publication date",
+              "published"
+            ]
+          },
+          "feature_3": {
+            "matched": false,
+            "keywords": [
+              "expiry date",
+              "expires",
+              "expiry"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "department filter",
+              "department"
+            ]
+          }
+        }
+      },
+      "student": {
+        "score_out_of_10": 7.5,
+        "matched_features": 3,
+        "total_features": 4,
+        "details": {
+          "feature_1": {
+            "matched": true,
+            "keywords": [
+              "announcement",
+              "notice"
+            ]
+          },
+          "feature_2": {
+            "matched": true,
+            "keywords": [
+              "publication date",
+              "published"
+            ]
+          },
+          "feature_3": {
+            "matched": false,
+            "keywords": [
+              "expiry date",
+              "expires",
+              "expiry"
+            ]
+          },
+          "feature_4": {
+            "matched": true,
+            "keywords": [
+              "department filter",
+              "department"
+            ]
+          }
+        }
+      },
+      "difference": 0.0
+    }
+  ],
+  "note": "Keyword-based feature coverage only. It does not verify correctness, completeness, or overall response quality."
+}

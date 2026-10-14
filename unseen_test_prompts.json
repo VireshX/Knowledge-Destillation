@@ -1,0 +1,82 @@
+[
+  {
+    "task": "Hostel Management",
+    "prompt": "Design a college hostel management interface with room allocation, vacancy status, student check-in and check-out, and maintenance requests."
+  },
+  {
+    "task": "College Transport",
+    "prompt": "Design a college transport management interface with bus routes, stops, schedules, student registrations, and transport fee status."
+  },
+  {
+    "task": "Canteen Ordering",
+    "prompt": "Design a college canteen ordering interface with menu categories, item availability, cart, order tracking, and payment status."
+  },
+  {
+    "task": "Student Attendance Analytics",
+    "prompt": "Design an attendance analytics dashboard with subject-wise attendance, monthly trends, shortage warnings, and downloadable reports."
+  },
+  {
+    "task": "Faculty Management",
+    "prompt": "Design a faculty management interface with faculty profiles, assigned subjects, teaching schedules, and leave requests."
+  },
+  {
+    "task": "Placement Portal",
+    "prompt": "Design a college placement portal with company profiles, eligibility criteria, application deadlines, and interview schedules."
+  },
+  {
+    "task": "Assignment Submission",
+    "prompt": "Design an assignment submission portal with assignment instructions, deadlines, file uploads, submission status, and faculty feedback."
+  },
+  {
+    "task": "Student Grievance",
+    "prompt": "Design a student grievance portal with complaint categories, complaint submission, tracking IDs, status updates, and resolution history."
+  },
+  {
+    "task": "Laboratory Booking",
+    "prompt": "Design a college laboratory booking interface with available time slots, equipment lists, booking approvals, and cancellation status."
+  },
+  {
+    "task": "Event Registration",
+    "prompt": "Design a college event registration portal with event details, seat availability, registration deadlines, and confirmation receipts."
+  },
+  {
+    "task": "Scholarship Portal",
+    "prompt": "Design a scholarship application portal with eligibility requirements, document uploads, application status, deadlines, and award notifications."
+  },
+  {
+    "task": "Alumni Portal",
+    "prompt": "Design a college alumni portal with alumni profiles, graduation details, networking events, mentorship requests, and contact preferences."
+  },
+  {
+    "task": "Course Registration",
+    "prompt": "Design a course registration interface with course prerequisites, available seats, timetable conflicts, enrollment status, and add-drop deadlines."
+  },
+  {
+    "task": "Inventory Management",
+    "prompt": "Design a college inventory dashboard with item quantities, stock alerts, purchase requests, supplier details, and issue records."
+  },
+  {
+    "task": "Campus Health Appointment",
+    "prompt": "Design a campus health appointment interface with available slots, appointment bookings, cancellation options, and visit status."
+  },
+  {
+    "task": "Internship Tracker",
+    "prompt": "Design an internship tracking portal with company details, application stages, interview dates, offer status, and mentor feedback."
+  },
+  {
+    "task": "Classroom Scheduling",
+    "prompt": "Design a classroom scheduling interface with room capacity, available time slots, course assignments, and scheduling conflict alerts."
+  },
+  {
+    "task": "Research Project Portal",
+    "prompt": "Design a student research project portal with project proposals, supervisor assignments, milestone deadlines, and progress reports."
+  },
+  {
+    "task": "Certificate Request",
+    "prompt": "Design a student certificate request portal with certificate types, application forms, processing status, and collection dates."
+  },
+  {
+    "task": "College Noticeboard",
+    "prompt": "Design a digital college noticeboard with categorized announcements, publication dates, expiry dates, and department filters."
+  }
+]

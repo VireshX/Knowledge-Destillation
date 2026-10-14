@@ -1,0 +1,26 @@
+{
+  "task_results": [
+    {
+      "task": "College Library Management",
+      "base_average": 3.75,
+      "student_average": 4.0,
+      "difference": 0.25
+    },
+    {
+      "task": "Student Fee Payment Portal",
+      "base_average": 3.25,
+      "student_average": 4.25,
+      "difference": 1.0
+    },
+    {
+      "task": "Examination Timetable",
+      "base_average": 3.5,
+      "student_average": 4.25,
+      "difference": 0.75
+    }
+  ],
+  "overall_base_average": 3.5,
+  "overall_student_average": 4.17,
+  "overall_difference": 0.67,
+  "note": "Preliminary subjective ratings on three tasks; not a statistically validated benchmark."
+}

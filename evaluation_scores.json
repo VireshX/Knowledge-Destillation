@@ -1,0 +1,83 @@
+[
+  {
+    "task": "College Library Management",
+    "base": {
+      "score": 10.0,
+      "matched_features": 5,
+      "total_features": 5,
+      "feature_results": {
+        "Book Search": true,
+        "Availability Status": true,
+        "Issue Dates": true,
+        "Return Dates": true,
+        "Overdue Alerts": true
+      }
+    },
+    "student": {
+      "score": 10.0,
+      "matched_features": 5,
+      "total_features": 5,
+      "feature_results": {
+        "Book Search": true,
+        "Availability Status": true,
+        "Issue Dates": true,
+        "Return Dates": true,
+        "Overdue Alerts": true
+      }
+    }
+  },
+  {
+    "task": "Student Fee Payment Portal",
+    "base": {
+      "score": 8.0,
+      "matched_features": 4,
+      "total_features": 5,
+      "feature_results": {
+        "Fee Details": true,
+        "Payment Status": true,
+        "Pending Dues": true,
+        "Receipts": false,
+        "Payment History": true
+      }
+    },
+    "student": {
+      "score": 8.0,
+      "matched_features": 4,
+      "total_features": 5,
+      "feature_results": {
+        "Fee Details": true,
+        "Payment Status": true,
+        "Pending Dues": false,
+        "Receipts": true,
+        "Payment History": true
+      }
+    }
+  },
+  {
+    "task": "Examination Timetable",
+    "base": {
+      "score": 6.0,
+      "matched_features": 3,
+      "total_features": 5,
+      "feature_results": {
+        "Exam Dates": false,
+        "Exam Times": false,
+        "Exam Rooms": true,
+        "Day/Week/Month Filters": true,
+        "Personal Schedule": true
+      }
+    },
+    "student": {
+      "score": 10.0,
+      "matched_features": 5,
+      "total_features": 5,
+      "feature_results": {
+        "Exam Dates": true,
+        "Exam Times": true,
+        "Exam Rooms": true,
+        "Day/Week/Month Filters": true,
+        "Personal Schedule": true
+      }
+    }
+  }
+]

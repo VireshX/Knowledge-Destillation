@@ -1,0 +1,34 @@
+
+# Python environment
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Model weights and downloaded cache
+models/
+checkpoints/
+.cache/
+hf_cache/
+*.bin
+*.pt
+*.pth
+
+# Local environment secrets
+.env
+.env.*
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Training logs
+runs/
+wandb/
+
+# Training checkpoints and local backups
+student_lora_checkpoints/
+teacher_dataset_backup.jsonl
+train_backup_before_grievance.jsonl
