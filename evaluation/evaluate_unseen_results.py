@@ -2,8 +2,8 @@
 import json
 from pathlib import Path
 
-INPUT_FILE = "unseen_comparison_results.json"
-OUTPUT_FILE = "unseen_feature_scores.json"
+INPUT_FILE = "evaluation/unseen_comparison_results.json"
+OUTPUT_FILE = "evaluation/unseen_feature_scores.json"
 
 REQUIRED_FEATURES = {
     "Hostel Management": [

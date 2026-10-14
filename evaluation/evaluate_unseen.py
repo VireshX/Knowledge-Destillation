@@ -7,8 +7,8 @@ from peft import PeftModel
 
 MODEL_NAME = "Qwen/Qwen2.5-0.5B-Instruct"
 ADAPTER_DIR = "models/student_lora_adapter"
-INPUT_FILE = "unseen_test_prompts.json"
-OUTPUT_FILE = "unseen_comparison_results.json"
+INPUT_FILE = "evaluation/unseen_test_prompts.json"
+OUTPUT_FILE = "evaluation/unseen_comparison_results.json"
 
 if not torch.cuda.is_available():
     raise RuntimeError("CUDA GPU is not available.")

@@ -1,8 +1,8 @@
 {
   "tasks_evaluated": 20,
   "base_average": 7.75,
-  "student_average": 8.07,
-  "difference": 0.32,
+  "student_average": 8.65,
+  "difference": 0.9,
   "results": [
     {
       "task": "Hostel Management",
@@ -49,8 +49,8 @@
         }
       },
       "student": {
-        "score_out_of_10": 6.0,
-        "matched_features": 3,
+        "score_out_of_10": 8.0,
+        "matched_features": 4,
         "total_features": 5,
         "details": {
           "feature_1": {
@@ -82,7 +82,7 @@
             ]
           },
           "feature_5": {
-            "matched": false,
+            "matched": true,
             "keywords": [
               "maintenance request",
               "maintenance"
@@ -90,7 +90,7 @@
           }
         }
       },
-      "difference": 0.0
+      "difference": 2.0
     },
     {
       "task": "College Transport",
@@ -137,8 +137,8 @@
         }
       },
       "student": {
-        "score_out_of_10": 6.0,
-        "matched_features": 3,
+        "score_out_of_10": 8.0,
+        "matched_features": 4,
         "total_features": 5,
         "details": {
           "feature_1": {
@@ -149,7 +149,7 @@
             ]
           },
           "feature_2": {
-            "matched": true,
+            "matched": false,
             "keywords": [
               "stop",
               "stops"
@@ -163,14 +163,14 @@
             ]
           },
           "feature_4": {
-            "matched": false,
+            "matched": true,
             "keywords": [
               "student registration",
               "register"
             ]
           },
           "feature_5": {
-            "matched": false,
+            "matched": true,
             "keywords": [
               "transport fee",
               "fee status"
@@ -178,7 +178,7 @@
           }
         }
       },
-      "difference": -4.0
+      "difference": -2.0
     },
     {
       "task": "Canteen Ordering",
@@ -315,7 +315,7 @@
         "total_features": 4,
         "details": {
           "feature_1": {
-            "matched": false,
+            "matched": true,
             "keywords": [
               "subject-wise",
               "by subject",
@@ -339,7 +339,7 @@
             ]
           },
           "feature_4": {
-            "matched": true,
+            "matched": false,
             "keywords": [
               "downloadable report",
               "download report",
@@ -467,7 +467,7 @@
         "total_features": 4,
         "details": {
           "feature_1": {
-            "matched": false,
+            "matched": true,
             "keywords": [
               "company profile",
               "company details"
@@ -488,7 +488,7 @@
             ]
           },
           "feature_4": {
-            "matched": true,
+            "matched": false,
             "keywords": [
               "interview schedule",
               "interview"
@@ -543,12 +543,12 @@
         }
       },
       "student": {
-        "score_out_of_10": 8.0,
-        "matched_features": 4,
+        "score_out_of_10": 10.0,
+        "matched_features": 5,
         "total_features": 5,
         "details": {
           "feature_1": {
-            "matched": false,
+            "matched": true,
             "keywords": [
               "instructions",
               "assignment details"
@@ -584,7 +584,7 @@
           }
         }
       },
-      "difference": 4.0
+      "difference": 6.0
     },
     {
       "task": "Student Grievance",
@@ -632,12 +632,12 @@
         }
       },
       "student": {
-        "score_out_of_10": 2.0,
-        "matched_features": 1,
+        "score_out_of_10": 4.0,
+        "matched_features": 2,
         "total_features": 5,
         "details": {
           "feature_1": {
-            "matched": false,
+            "matched": true,
             "keywords": [
               "complaint category",
               "category"
@@ -674,7 +674,7 @@
           }
         }
       },
-      "difference": -2.0
+      "difference": 0.0
     },
     {
       "task": "Laboratory Booking",
@@ -714,8 +714,8 @@
         }
       },
       "student": {
-        "score_out_of_10": 10.0,
-        "matched_features": 4,
+        "score_out_of_10": 7.5,
+        "matched_features": 3,
         "total_features": 4,
         "details": {
           "feature_1": {
@@ -740,7 +740,7 @@
             ]
           },
           "feature_4": {
-            "matched": true,
+            "matched": false,
             "keywords": [
               "cancellation",
               "cancel"
@@ -748,7 +748,7 @@
           }
         }
       },
-      "difference": 5.0
+      "difference": 2.5
     },
     {
       "task": "Event Registration",
@@ -957,12 +957,12 @@
         }
       },
       "student": {
-        "score_out_of_10": 6.0,
-        "matched_features": 3,
+        "score_out_of_10": 8.0,
+        "matched_features": 4,
         "total_features": 5,
         "details": {
           "feature_1": {
-            "matched": true,
+            "matched": false,
             "keywords": [
               "alumni profile",
               "alumni details"
@@ -983,14 +983,14 @@
             ]
           },
           "feature_4": {
-            "matched": false,
+            "matched": true,
             "keywords": [
               "mentorship",
               "mentor"
             ]
           },
           "feature_5": {
-            "matched": false,
+            "matched": true,
             "keywords": [
               "contact preference",
               "contact"
@@ -998,7 +998,7 @@
           }
         }
       },
-      "difference": -4.0
+      "difference": -2.0
     },
     {
       "task": "Course Registration",
@@ -1046,8 +1046,8 @@
         }
       },
       "student": {
-        "score_out_of_10": 8.0,
-        "matched_features": 4,
+        "score_out_of_10": 10.0,
+        "matched_features": 5,
         "total_features": 5,
         "details": {
           "feature_1": {
@@ -1080,7 +1080,7 @@
             ]
           },
           "feature_5": {
-            "matched": false,
+            "matched": true,
             "keywords": [
               "add-drop",
               "add/drop"
@@ -1088,7 +1088,7 @@
           }
         }
       },
-      "difference": 2.0
+      "difference": 4.0
     },
     {
       "task": "Inventory Management",
@@ -1221,8 +1221,8 @@
         }
       },
       "student": {
-        "score_out_of_10": 7.5,
-        "matched_features": 3,
+        "score_out_of_10": 5.0,
+        "matched_features": 2,
         "total_features": 4,
         "details": {
           "feature_1": {
@@ -1247,7 +1247,7 @@
             ]
           },
           "feature_4": {
-            "matched": true,
+            "matched": false,
             "keywords": [
               "visit status",
               "appointment status",
@@ -1256,7 +1256,7 @@
           }
         }
       },
-      "difference": 0.0
+      "difference": -2.5
     },
     {
       "task": "Internship Tracker",
@@ -1304,8 +1304,8 @@
         }
       },
       "student": {
-        "score_out_of_10": 8.0,
-        "matched_features": 4,
+        "score_out_of_10": 10.0,
+        "matched_features": 5,
         "total_features": 5,
         "details": {
           "feature_1": {
@@ -1338,7 +1338,7 @@
             ]
           },
           "feature_5": {
-            "matched": false,
+            "matched": true,
             "keywords": [
               "mentor feedback",
               "feedback"
@@ -1346,7 +1346,7 @@
           }
         }
       },
-      "difference": -2.0
+      "difference": 0.0
     },
     {
       "task": "Classroom Scheduling",
@@ -1609,8 +1609,8 @@
         }
       },
       "student": {
-        "score_out_of_10": 7.5,
-        "matched_features": 3,
+        "score_out_of_10": 10.0,
+        "matched_features": 4,
         "total_features": 4,
         "details": {
           "feature_1": {
@@ -1628,7 +1628,7 @@
             ]
           },
           "feature_3": {
-            "matched": false,
+            "matched": true,
             "keywords": [
               "expiry date",
               "expires",
@@ -1644,7 +1644,7 @@
           }
         }
       },
-      "difference": 0.0
+      "difference": 2.5
     }
   ],
   "note": "Keyword-based feature coverage only. It does not verify correctness, completeness, or overall response quality."
